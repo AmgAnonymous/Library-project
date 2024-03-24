@@ -41,7 +41,7 @@ But make sure you change the database logic too , check database.sql documents w
 
 I would be happy to see what else you have think please share back your code if you have update new features or cool staff !
 
-Here there is an invitation link  to my discord group where we can communicate : https://discord.gg/T4McBgt5
+
 
 
 # HOW TO START :
@@ -79,7 +79,7 @@ now go on google chrome an write localhost:3000
 # SHOULD BE ALL READY 
 
 now you should be able to see the full site check your vscode console if there are some errors should be displayed 
-if you stack  write me on discord from the link i have provided i will be happy to help . 
+if you stack  write me.
 
 
 
